@@ -3,18 +3,6 @@
     "name": "Bar Cascavel Mobile",
     "slug": "bar-cascavel-mobile",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "dark",
-    "ios": {
-      "supportsTablet": true
-    },
-    "android": {
-      "adaptiveIcon": {
-        "backgroundColor": "#121212"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    "orientation": "portrait"
   }
 }
